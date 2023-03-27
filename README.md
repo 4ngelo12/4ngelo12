@@ -1,38 +1,40 @@
 ## Hi there 👋, I'm Angelo Casapaico
 ---
 
-### About me 
+### About me 🧑‍💻
 
-I'm a software developer from Argentina, I'm currently working as a full stack developer at [**Santander Río**](https://www.santanderrio.com.ar/), I'm also a co-founder of [**Coders**](https://coders.com.ar/), a community of developers in Argentina.
+I'm a student of Systems Engineering and a passionate about technology and I love to learn new things. I'm currently learning Full Stack Development and I'm looking for opportunities to improve my skills.
 
+---
 ### Education 🎓
 
+- >  **Systems Engineering Career** in [Universidad César Vallejo](https://www.ucv.edu.pe/) **In progress** 🏫
+- > BootCamp **Full Stack Developer** [Undefined Academy](https://undefined.academy/) **In progress** ⛺
 
-### My skills and tools
+---
+### My skills and tools 🛠 
 
-- **Languages**: JavaScript, TypeScript, Python, Java, C#, C++, C, PHP, SQL, HTML, CSS, Bash, Batch, XML, YAML, JSON, Markdown, etc.
+- **Languages**: HTML, CSS, PHP, JAVA, JavaScript, C#, Python.
 
-- **Frameworks**: React, React Native, Angular, Vue, Node, Express, Django, Flask, etc.
+- **Databases**: MySQL, SQL Server.
 
-- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, etc.
+- **Tools**: Git, GitHub.
 
-- **Tools**: Git, GitHub, GitLab, Bitbucket, Docker, Kubernetes, Jenkins, etc.
-
-
-### Interests
-
-
-
-### Languages
+---
+### Languages 🌐
 
 - Spanish (Native)
 - English (Intermediate)
 
-### My Projects
+---
 
-- [**Coders**](https://coders.com.ar/): A community of developers in Argentina.
+### My Projects 📚
 
-### Contact me
+- **Work in progress...** ⏳
+
+---
+
+### Contact me 📫
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/casapaico-angelo/)
 
