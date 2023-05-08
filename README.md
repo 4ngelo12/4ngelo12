@@ -50,7 +50,7 @@ I'm a student of Systems Engineering and a passionate about technology who also 
 
 ### My Projects 📚
 
-- ![Mi Página](https://4ngelo12.github.io/cvs/4ngel0-7040/)
+- [![Mi Página](https://4ngelo12.github.io/cvs/4ngel0-7040/)]
 
 ---
 
