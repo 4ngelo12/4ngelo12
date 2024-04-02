@@ -48,7 +48,7 @@ I'm a student of Systems Engineering and a passionate about technology who also 
 ### My Projects 📚
 
 - [Tienda de Calzados (Administrador)](https://4ngelo12.github.io/tienda_calzados_admin/auth/login)
-- [Tienda de Calzados (Cliente)](https://tienda-calzados.netlify.app/home)
+- [Tienda de Calzados (Cliente)](https://tienda-calzados.netlify.app)
 
 ---
 
