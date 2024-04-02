@@ -10,8 +10,6 @@ I'm a student of Systems Engineering and a passionate about technology who also 
 
 > **Systems Engineering Career** in [Universidad César Vallejo](https://www.ucv.edu.pe/) **In progress** 🏫
 
-> BootCamp **Full Stack Developer** [Undefined Academy](https://undefined.academy/) **In progress** ⛺
-
 ---
 ### My skills and tools 🛠 
 
@@ -19,11 +17,10 @@ I'm a student of Systems Engineering and a passionate about technology who also 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-2965f1?&logo=CSS3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-712cf9?&logo=PHP&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fb503b?&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-236EE8?&logo=TypeScript&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-Java-%23ED8B00?&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-fb503b?&logo=JavaScript&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3670A0?&logo=Python&logoColor=ffdd54) 
+![Spring](https://img.shields.io/badge/-SpringBoot-%38C721?&logo=SpringBoot&logoColor=white)
 
 
 
